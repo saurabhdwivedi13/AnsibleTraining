@@ -1,0 +1,7 @@
+TEST_DDL_DB_URL: test123@abc.com,9000
+MGR_ID: abc1,def2
+TES_DML_DB_URL: testDML@abc.com,9000
+LDAP_USER: LDAP_USR_DEV
+NEW_ENV_VAR_TEST: SAURABH DWIVEDI
+Ansible_training_time: 12PM PST
+Ansible_training_date: 8 Jan 9 Jan
