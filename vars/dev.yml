@@ -4,4 +4,4 @@ TES_DML_DB_URL: testDML@abc.com,9000
 LDAP_USER: LDAP_USR_DEV
 NEW_ENV_VAR_TEST: SAURABH DWIVEDI
 Ansible_training_time: 12PM PST
-Ansible_training_date: 8 Jan 9 Jan
+Ansible_training_date: 8 Jan to 9 Jan
